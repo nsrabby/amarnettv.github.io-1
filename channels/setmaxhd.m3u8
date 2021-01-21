@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
